@@ -12,5 +12,5 @@
 - [Telegram](https://t.me/suheugene)
 
 ## Статы
-Просто захотел такую же штуку как у [cipherskyinc](https://github.com/vladciphersky) (хз кто это)<br>
-[![stats](https://github-readme-stats.vercel.app/api?username=SuhEugene&show_icons=true&count_private=true)](https://suheugene.ru/)
+Просто захотел такую же штуку как у *\[ник чела был успешно потерян\]*<br>
+![stats](https://github-readme-stats.vercel.app/api?username=SuhEugene&show_icons=true&count_private=true)
